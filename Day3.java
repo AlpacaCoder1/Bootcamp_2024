@@ -1,13 +1,14 @@
 public class Day3 {
     public static void main(String[] args) {
-        int x = 120;
+        double x = 133;
+
         if (x < 100) {
-            x+=50;
+            x +=50;
         }  
         if (x > 100) {
-             x/=20;
+             x /=20;
         }
-        System.out.println("\n" + x + "\n");
+        System.out.println("\n" + "x = " + x + "\n");
     }
     
 }
