@@ -5,6 +5,5 @@ public class pig {
         final String FINAL_STRING = "Prog da best";
         System.out.println("\n" + FINAL_STRING);
         System.out.println("\n" + "Oink Oink" + "\n");
-   
     }
 }
