@@ -1,6 +1,6 @@
 public class Lasagna {
     public int expectedMinutesInOven() {
-        int minutes = 40;
-        return minutes;
+        int minutesExpected = 40;
+        return minutesExpected;
     }
 }
