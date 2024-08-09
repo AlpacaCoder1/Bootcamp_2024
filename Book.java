@@ -5,7 +5,7 @@ public class Book {
     boolean sold = false;
 
     public void sellBook() {
-        boolean sold = true;
+        sold = true;
         System.out.println("Is the book sold? " + sold);
     }
     public void changeName(String newName) {
